@@ -6,7 +6,7 @@
   Email: alan_finkelstein@urmc.rochester.edu
 </p>
 <p align="left">
-  LinkedIn: <a href="https://www.linkedin.com/in/ajfinkelstein" target="_blank" rel="noreferrer"></a>
+  LinkedIn: <a href="https://www.linkedin.com/in/ajfinkelstein" target="LinkedIn" rel="noreferrer">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
