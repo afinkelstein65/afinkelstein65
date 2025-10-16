@@ -1,7 +1,7 @@
 <h2 aligh='left'> Alan J. Finkelstein </h2>
 <h3 align="left">A physician-scientist with a passion for physics, imaging, mathematics, and engineering</h3>
 
-<h1 align="left"> Currently enrolled in the Medical Scientist Training Program at the University of Rochester. I completed a PhD in Biomedical Engineering in 2024 with Dr. Jianhui Zhong and am currently applying to residency in Radiology. I am interested in MR physics and medical imaging to improve diagnostic accuracy and probe tissue microstructure.</h1>
+<h4 align="left"> Currently enrolled in the Medical Scientist Training Program at the University of Rochester. I completed a PhD in Biomedical Engineering in 2024 with Dr. Jianhui Zhong and am currently applying to residency in Radiology. I am interested in MR physics and medical imaging to improve diagnostic accuracy and probe tissue microstructure.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
