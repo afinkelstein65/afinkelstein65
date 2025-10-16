@@ -1,7 +1,7 @@
 <h2 aligh='left'> Alan J. Finkelstein </h2>
 <h3 align="left">A physician-scientist with a passion for physics, imaging, mathematics, and engineering</h3>
 
-<h4 align="left"> Currently enrolled in the Medical Scientist Training Program at the University of Rochester. I completed a PhD in Biomedical Engineering in 2024 with Dr. Jianhui Zhong and am currently applying to residency in Radiology. I am interested in MR physics and medical imaging to improve diagnostic accuracy and probe tissue microstructure.</h4>
+<p align="left"> Currently enrolled in the Medical Scientist Training Program at the University of Rochester. I completed a PhD in Biomedical Engineering in 2024 with Dr. Jianhui Zhong and am currently applying to residency in Radiology. I am interested in MR physics and medical imaging to improve diagnostic accuracy and probe tissue microstructure.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +17,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Science:</h3>
