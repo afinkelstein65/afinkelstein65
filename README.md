@@ -6,7 +6,7 @@
   Email: alan_finkelstein@urmc.rochester.edu
 </p>
 <p align="left">
-  LinkedIn <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-in-logo-dsk-v03.png/jcr:content/renditions/brandg-business-in-logo-dsk-v03-2x.png" width="50" height="50">: <a href="https://www.linkedin.com/in/ajfinkelstein/" target="_blank" rel="noreferrer">
+  LinkedIn <img src="[https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-in-logo-dsk-v03.png/jcr:content/renditions/brandg-business-in-logo-dsk-v03-2x.png](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-logo-background-dsk-v03.png/jcr:content/renditions/brandg-linkedinlogo-logo-background-dsk-v03-2x.png)" width="50" height="50">: <a href="https://www.linkedin.com/in/ajfinkelstein/" target="_blank" rel="noreferrer"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
