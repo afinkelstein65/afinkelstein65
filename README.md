@@ -1,4 +1,5 @@
-<h3 align="center">A physician-scientist with a passion for physics, imaging, mathematics, and engineering</h3>
+<h2 aligh='left'> Alan J. Finkelstein </h2>
+<h3 align="left">A physician-scientist with a passion for physics, imaging, mathematics, and engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
